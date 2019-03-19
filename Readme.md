@@ -1,4 +1,4 @@
-Installer for german keyboard layout without deadkeys. This means, that ^`´ cannot be used for accents anymore and can be typed only once, to get the character immediatly.
+Installer for german keyboard layout without deadkeys. This means, that the accents ^`´ will be treated as normal characters.
 
 # How to use?
 - Run `setup.exe`
